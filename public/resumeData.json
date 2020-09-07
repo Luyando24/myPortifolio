@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Luyando Chikandula",
+    "occupation": "ReactJS Developer && Software engineer @Shopeasy",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Luyand, I'm a Full Stack ReactJS Developer. Currently I'm working at Shopeasy while studying Computer Science in college ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "cluyando2@gmail.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
