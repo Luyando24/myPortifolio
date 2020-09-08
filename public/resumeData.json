@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Luyando Chikandula",
-    "occupation": "ReactJS Developer && Software engineer @Shopeasy",
+    "occupation": "Fullstack web Developer && Software engineer @Shopeasy",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Luyand, I'm a Full Stack ReactJS Developer. Currently I'm working at Shopeasy while studying Computer Science in college ",
+    "image": "lu.jpeg",
+    "bio": "My name is Luyando, I'm a Full Stack web Developer. Currently I'm working at Shopeasy while studying Computer Science in college ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "cluyando2@gmail.com",
-    "phone": "+44 12 345 6789",
+    "phone": "+86 173 620 688 70",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Independence Ave",
+      "city": "Lusaka",
+      "state": "Zambia",
+      "zip": "10101"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -24,49 +24,49 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here is some more details about my tech skills",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Weifanga University of Science And Technology",
+        "degree": "BSc Computer Science and Technology",
+        "graduated": "2018 - To-date",
+        "description": "Studying a bachelor degree in computer science and technology"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Shopeasy",
+        "title": "Full stack web developer && Software engineer",
+        "years": "February 2019 - Present",
+        "description": "Developing e-commerce website"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Ashers Masempela Music Ministry",
+        "title": "Software Engineer and Digital marketing",
+        "years": "August 2020 - Present",
+        "description": "Developing online music store and digital marketing"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "60%"
       },
       {
         "name": "CSS",
@@ -74,19 +74,19 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "90%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "MySQL",
+        "level": "75%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "98%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "NodeJS",
+        "level": "70%"
       }
     ]
   },
@@ -127,12 +127,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I love the way you organize yourself and the way you are dedicated to your career",
+        "user": "Majory"
       }
     ]
   }
