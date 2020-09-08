@@ -2,7 +2,7 @@
   "main": {
     "name": "Luyando Chikandula",
     "occupation": "Fullstack web Developer && Software engineer @Shopeasy",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
+    "description": "Full Stack Web Developer.",
     "image": "lu.jpg",
     "bio": "My name is Luyando, I'm a Full Stack web Developer. Currently I'm working at Shopeasy while studying Computer Science in college ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -14,27 +14,27 @@
       "state": "Zambia",
       "zip": "10101"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://twitter.com/cluyando2",
     "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/Luyando99",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/luyando-chikandula-67ba96142/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "",
+        "url": "https://www.instagram.com/luyando199",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "",
+        "url": "https://github.com/Luyando24",
         "className": "fa fa-github"
       }
     ]
